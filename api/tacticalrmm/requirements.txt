@@ -34,7 +34,7 @@ sqlparse==0.4.3
 twilio==7.16.4
 urllib3==1.26.14
 uWSGI==2.0.21
-validators==0.20.0
+validators==0.21.0
 vine==5.0.0
 websockets==10.4
 zipp==3.15.0
